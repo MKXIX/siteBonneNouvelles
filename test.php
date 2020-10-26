@@ -10,7 +10,6 @@ class Test extends TestCase
         $this->assertEquals("YES","YES");
     }
 
-   
  }
  
  ?>
